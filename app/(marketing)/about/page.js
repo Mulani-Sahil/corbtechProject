@@ -26,7 +26,7 @@ const TECH_STACK = [
 
 const TEAM = [
   { name: 'Project Developer', role: 'Full-Stack & AI Integration',    emoji: '👨‍💻' },
-  { name: 'College Project',   role: 'B.E. / B.Tech Computer Science', emoji: '🎓' },
+  { name: 'College Project',   role: 'B.Sc Computer Science', emoji: '🎓' },
 ];
 
 export default function AboutPage() {
