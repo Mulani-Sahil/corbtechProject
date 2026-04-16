@@ -544,7 +544,7 @@ export default function AboutPage() {
                   textTransform: 'uppercase',
                   marginBottom: 16,
                 }}>
-                  B.E. / B.Tech Computer Science · 2025
+                  B.Sc Computer Science · 2026
                 </div>
                 <p style={{
                   fontSize:    14,
